@@ -3,7 +3,7 @@ Applied Natural Language Processing (NLP) to classify tweet sentiment (Positive,
 Handled noisy, informal tweet text using light preprocessing:
 Lowercasing, removing links/mentions/hashtags
 
-Preserved important words (e.g., "not", "never", "I", "you") to retain sentiment meaning
+Preserved important words to retain sentiment meaning
 
 Transformed text into numerical features using TF-IDF vectorization
 
